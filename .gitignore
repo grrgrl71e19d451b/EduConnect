@@ -1,0 +1,6 @@
+# Ignora file di test
+*.test.js
+
+# Ignora directory specifiche
+node_modules/
+build/
