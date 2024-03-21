@@ -1,4 +1,5 @@
 Panoramica del Progetto EduConnect
+
 EduConnect è una piattaforma educativa all'avanguardia, creata per facilitare l'interazione tra studenti e tutor. Attraverso un'interfaccia web intuitiva, consente la registrazione, l'accesso, la navigazione e la pubblicazione di annunci di tutoraggio, nonché la personalizzazione dei profili. Si rivolge principalmente a due categorie: Insegnanti e Studenti.
 Nella fase di registrazione, si specifica il ruolo: gli Insegnanti possono pubblicare annunci, gestirli e personalizzare il proprio profilo, mentre gli Studenti possono rispondere agli annunci e modificare il proprio profilo. Il punto di forza di EduConnect è il suo motore di ricerca avanzato, che permette di filtrare gli annunci per materia o parole chiave, facilitando la scoperta dell'insegnante perfetto. 
 La piattaforma offre anche strumenti avanzati per la gestione del profilo, permettendo agli utenti di aggiornare i loro dati, eccetto nome utente e password, e di eliminare il profilo. Per gli Insegnanti, eliminare il profilo comporta la rimozione di tutti gli annunci, assicurando una gestione delle informazioni sicura ed efficiente.
