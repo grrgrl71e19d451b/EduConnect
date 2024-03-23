@@ -4,7 +4,6 @@ const bcrypt = require('bcryptjs'); // Per hash delle password
 const User = require('../models/user.model');
 const Post = require('../models/post.model');
 const fs = require('fs'); // File system per operazioni sui file
-const path = require('path'); // Per gestire i percorsi dei file
 
 // Funzione per registrare un nuovo utente
 const registerUser = async (req, res) => {
