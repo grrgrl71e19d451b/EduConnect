@@ -4,9 +4,6 @@
 const express = require('express');
 const router = express.Router();
 
-// Importazione dei modelli necessari
-const User = require('./models/user.model');
-
 // Importazione dei router per gestire le diverse sezioni dell'API
 const userRoutes = require('./routes/user.routes');
 const authRoutes = require('./routes/auth.routes');
