@@ -4,3 +4,6 @@
 # Ignora directory specifiche
 node_modules/
 build/
+
+# Ignora file con credenziali
+backend/config.env
